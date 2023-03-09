@@ -38,7 +38,8 @@ Preheat oven to 350°F (180°C).
 * Sugar: 7.5 g
 * Protein: 1.8 g
 
-###### Notes and FAQ:
+
+## Notes and FAQ:
 
 ###### These cookies are best eaten within a few days and should be stored in an airtight container.
 ###### You can add other ingredients such as chocolate chips or chopped nuts to this recipe.
