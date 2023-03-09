@@ -8,14 +8,14 @@
 
 ## List of ingredients:
 
-2 ripe bananas, mashed
-1 cup rolled oats
-1/4 cup almond flour
-1/4 cup honey
-1 tsp vanilla extract
-1/2 tsp baking powder
-1/2 tsp cinnamon
-Pinch of salt
+* 2 ripe bananas, mashed
+* 1 cup rolled oats
+* 1/4 cup almond flour
+* 1/4 cup honey
+* 1 tsp vanilla extract
+* 1/2 tsp baking powder
+* 1/2 tsp cinnamon
+* A Pinch of salt
 
 ## Directions:
 
