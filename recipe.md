@@ -6,7 +6,7 @@
 
 ###### Number of servings and serving size: 12 cookies, serving size 1 cookie
 
-## List of ingredients with accurate measurements:
+## List of ingredients:
 
 2 ripe bananas, mashed
 1 cup rolled oats
@@ -16,7 +16,8 @@
 1/2 tsp baking powder
 1/2 tsp cinnamon
 Pinch of salt
-Step-by-step directions:
+
+## Directions:
 
 Preheat oven to 350°F (180°C).
 1. In a mixing bowl, combine mashed bananas, rolled oats, almond flour, honey, vanilla extract, baking powder, cinnamon, and salt.
@@ -37,7 +38,7 @@ Preheat oven to 350°F (180°C).
 * Sugar: 7.5 g
 * Protein: 1.8 g
 
-######Notes and FAQ:
+###### Notes and FAQ:
 
 * These cookies are best eaten within a few days and should be stored in an airtight container.
 * You can add other ingredients such as chocolate chips or chopped nuts to this recipe.
