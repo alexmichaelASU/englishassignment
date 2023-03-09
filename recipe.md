@@ -1,5 +1,7 @@
 # Easy Banana Oatmeal Cookies
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](https://kirbiecravings.com/wp-content/uploads/2017/06/3-ingredient-banana-cookies-23-700x702.jpg)
+
 ###### Description: A simple and healthy recipe for banana oatmeal cookies that are perfect for a quick breakfast or snack.
 
 ###### Preparation and cooking time: 20 minutes
