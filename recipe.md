@@ -2,7 +2,7 @@
 
 ###### Description: A simple and healthy recipe for banana oatmeal cookies that are perfect for a quick breakfast or snack.
 
-######Preparation and cooking time: 20 minutes
+###### Preparation and cooking time: 20 minutes
 
 ###### Number of servings and serving size: 12 cookies, serving size 1 cookie
 
