@@ -40,6 +40,6 @@ Preheat oven to 350°F (180°C).
 
 ###### Notes and FAQ:
 
-* These cookies are best eaten within a few days and should be stored in an airtight container.
-* You can add other ingredients such as chocolate chips or chopped nuts to this recipe.
-* Can I use steel-cut oats instead of rolled oats? Yes, but the cookies will be more dense and crunchy.
+###### These cookies are best eaten within a few days and should be stored in an airtight container.
+###### You can add other ingredients such as chocolate chips or chopped nuts to this recipe.
+###### Can I use steel-cut oats instead of rolled oats? Yes, but the cookies will be more dense and crunchy.
