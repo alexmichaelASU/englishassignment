@@ -1,7 +1,7 @@
 # Easy Banana Oatmeal Cookies
 
 
-<a href="https://ibb.co/k3Psh89"><img src="https://i.ibb.co/WDR4cyP/tieshoe-3.jpg" alt="tieshoe-3" border="0"></a>
+
 
 ###### Description: A simple and healthy recipe for banana oatmeal cookies that are perfect for a quick breakfast or snack.
 
